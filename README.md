@@ -1,4 +1,4 @@
-- 💞️ I’m looking to collaborate on [Roziener](https://github.com/Rozinoer) and [RoKa781](https://github.com/Roka781)
+- 💞️ I’m looking to collaborate with [Roziener](https://github.com/Rozinoer) and [RoKa781](https://github.com/Roka781)
 - Skills 🫲🏻😐🫱🏻:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
